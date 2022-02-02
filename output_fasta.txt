@@ -1,0 +1,1 @@
+sequence one-sequence two:Identity:75/165(45.45%),Gaps:90/165(54.55%),Score=-120
